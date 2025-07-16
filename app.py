@@ -15,7 +15,7 @@ def my_output(query):
 
 #### UI Development using streamlit 
 
-st.set_page_config(page_title="Havells - Inquira")
+st.set_page_config(page_title="Sumit - Inquira")
 st.header("Inquira") 
 input = st.text_input("Input " , key = "input")  
 submit = st.button("Ask your query") 
